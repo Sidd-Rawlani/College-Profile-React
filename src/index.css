@@ -1,0 +1,18 @@
+body {
+  margin: 10;
+  padding:10;
+  font-family: sans-serif;
+  /* background: linear-gradient(89deg,#BB86FC,#0ED2F7); */
+  color:white;
+  background:#000000
+
+  /* background-color: #84fc03; */
+    /* background-color:#121212; */
+  
+}
+a{
+  text-decoration: none;
+  margin: 10px;
+  color:inherit;
+  font-size: 20px;
+}

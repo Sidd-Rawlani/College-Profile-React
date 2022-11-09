@@ -1,0 +1,20 @@
+.toggle-button{
+    position: absolute;
+    left:5%;
+    margin-top:30px;
+    z-index: 1;
+    border: none;
+    outline:none;
+    width:100px;
+    
+}
+.toggle-button:focus{
+    border: none;
+    outline: none;
+}
+@media (max-width:500px){
+    .toggle-button{
+        position: absolute;
+        margin-top: 0px;
+    }
+}

@@ -1,0 +1,12 @@
+h1{
+    text-align: left;
+    
+    
+}
+.contact{
+    margin-left:5%;
+    margin-bottom: 100px;
+}
+.icons:hover{
+    transform: scale(1.5);
+}

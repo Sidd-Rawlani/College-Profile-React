@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding:0;
+}
+.particles{
+  position:fixed;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  z-index: -1;
+  width: auto;
+}
+.intro{
+  margin-top: 140px;
+  
+  
+}
+.wave{
+  font-size: 20px ;
+  float:left;
+  margin-left: 100px;
+  margin-top: 10px;
+  display: block;
+ 
+}
+.Tilt-inner{
+  display:inline-block;
+  text-align: center;
+}
+.Tilt{
+  text-align: center;
+}
+.center {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+
+a{
+  text-decoration: none;
+}
+footer{
+text-align: center;
+background-color: #222222;
+padding: 20px;
+color: #fff;
+}

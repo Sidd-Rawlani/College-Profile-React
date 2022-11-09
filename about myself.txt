@@ -1,0 +1,6 @@
+Hey, I'm Hrishi 👋 😃 !
+👉 I'm in sophomore year pursuing Bachelors of Engineering in Information Technology.
+🔭 I'm skilled and proficient in Web Development and technologies like React JS, Node JS, Express JS,
+Javascript , Java , Python , C, C++.
+🤔 Learning Android Development, ML and AI, Kubernetes, Docker.
+💻 You can checkout my portfolio here:- https://hrishikesh156.github.io/myportfolio/

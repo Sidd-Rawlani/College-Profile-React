@@ -1,0 +1,44 @@
+.me{
+    margin-left: 5%;
+    
+    /* background-color: #121212;
+    width: fit-content;
+    padding: 10px; */
+    margin-top: 10px;
+    font-size: 20px;
+}
+.me-top{
+    margin-left: 5%;
+    margin-top: 20px;
+    position: relative;
+    font-size: 32px;
+    
+}
+.profile{
+    float:right;
+    width: 400px;
+    height: 400px;
+     }
+.quote{
+    /* transform: rotate(20deg); */
+    
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 400px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 900;
+    -ms-transform: rotate(-20deg); /* IE 9 */
+    transform: rotate(-20deg);
+}
+@media (max-width:800px){
+    .profile{
+        width: 300px;
+        height:300px;
+        float: none;
+        margin:10px;
+    }
+    .quote{
+        display: none;
+    }
+}
